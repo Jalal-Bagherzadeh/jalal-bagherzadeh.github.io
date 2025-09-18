@@ -41,3 +41,25 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+/* Tabs / navigation menu */
+.site-nav .page-link {
+  font-family: 'Playfair Display', Georgia, serif !important;
+  font-weight: 700;   /* optional: makes tabs bold */
+  text-transform: none; /* optional: remove ALL CAPS if applied */
+}
+
+/* Body font */
+body {
+  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Playfair Display', Georgia, 'Times New Roman', serif;
+}
+/* Hide the toggle theme button */
+.masthead__menu-item#theme-toggle,
+button#theme-toggle,
+a[onclick*="toggleTheme"] {
+  display: none !important;
+}
