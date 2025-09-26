@@ -34,59 +34,9 @@ Hear From My Students!
 
 <hr> <!-- This adds a horizontal line below the heading -->
 
-<div class="slideshow-container">
-	
-<div class="mySlides">
-  <q>The professor, Mr. Jalal was the incredible with helping students in their own needed way. Between staying after class and office hours I think he has
-helped out almost the entire class. Very organized and teaches at a great speed.</q>
-</div>
-
-<div class="mySlides">
-  <q>Really wants you to learn and not just hand you work for a grade.</q>
-</div>
-
-<div class="mySlides">
-  <q>Super kind and helpful guy. Very smart and always answers questions kindly. Very flexible.</q>
-</div>
-
-<div class="mySlides">
-  <q>The most effective aspects were homework and the lectures. I got plenty of good practice from the homework and the lectures were interactive as he did practice problems
-with us on the chalkboard.</q>
-</div>
-	
-<div class="mySlides">
-  <q>I think he cares deeply about his students and actually wants them to learn, contrary to other professors at the school. I appreciated his class although I seemed to struggle.</q>
-</div>
-
-<div class="mySlides">
-  <q>He was a great professor and it felt like he knew what he was talking about and the way to teach it to the students.</q>
-</div>
-
-<div class="mySlides">
-  <q>Your teaching was really helpful and help me understand concepts. Overall keep up the great work!!</q>
-</div>
-
-<div class="mySlides">
-  <q>Nice and most understanding professor Ive ever had! Responds quickly to emails and easy to understand. Good lectures and good coverage on all course topics.</q>
-</div>
-
-<div class="mySlides">
-  <q>Good and fair instructor who I respected and was fully engaged with the class</q>
-</div>
-
-<div class="mySlides">
-  <q>Very nice instructor. Gave lots of opportunities for us to succeed and organized the class very well.</q>
-</div>
-	
-
-<!-- Next and previous buttons -->
-<a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-<a class="next" onclick="plusSlides(1)">&#10095;</a>
-
-</div>
-
-<div class="dot-container" id="dotContainer"></div>
-
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 * {box-sizing: border-box}
 body {font-family: Verdana, sans-serif; margin:0}
@@ -164,6 +114,58 @@ q {font-style: italic;}
 
 </style>
 
+<div class="slideshow-container">
+	
+<div class="mySlides">
+  <q>The professor, Mr. Jalal was the incredible with helping students in their own needed way. Between staying after class and office hours I think he has
+helped out almost the entire class. Very organized and teaches at a great speed.</q>
+</div>
+
+<div class="mySlides">
+  <q>Really wants you to learn and not just hand you work for a grade.</q>
+</div>
+
+<div class="mySlides">
+  <q>Super kind and helpful guy. Very smart and always answers questions kindly. Very flexible.</q>
+</div>
+
+<div class="mySlides">
+  <q>The most effective aspects were homework and the lectures. I got plenty of good practice from the homework and the lectures were interactive as he did practice problems
+with us on the chalkboard.</q>
+</div>
+	
+<div class="mySlides">
+  <q>I think he cares deeply about his students and actually wants them to learn, contrary to other professors at the school. I appreciated his class although I seemed to struggle.</q>
+</div>
+
+<div class="mySlides">
+  <q>He was a great professor and it felt like he knew what he was talking about and the way to teach it to the students.</q>
+</div>
+
+<div class="mySlides">
+  <q>Your teaching was really helpful and help me understand concepts. Overall keep up the great work!!</q>
+</div>
+
+<div class="mySlides">
+  <q>Nice and most understanding professor Ive ever had! Responds quickly to emails and easy to understand. Good lectures and good coverage on all course topics.</q>
+</div>
+
+<div class="mySlides">
+  <q>Good and fair instructor who I respected and was fully engaged with the class</q>
+</div>
+
+<div class="mySlides">
+  <q>Very nice instructor. Gave lots of opportunities for us to succeed and organized the class very well.</q>
+</div>
+	
+
+<!-- Next and previous buttons -->
+<a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+<a class="next" onclick="plusSlides(1)">&#10095;</a>
+
+</div>
+
+<div class="dot-container" id="dotContainer"></div>
 
 <script>
 let slideIndex = 1;
