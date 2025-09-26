@@ -34,8 +34,6 @@ Hear From My Students!
 
 <hr> <!-- This adds a horizontal line below the heading -->
 
-<html>
-
 <style>
 * {box-sizing: border-box}
 body {font-family: Verdana, sans-serif; margin:0}
