@@ -35,6 +35,8 @@ Hear From My Students!
 <hr> <!-- This adds a horizontal line below the heading -->
 
 <style>
+* {box-sizing: border-box}
+body {font-family: Verdana, sans-serif; margin:0}
 
 /* Slideshow container */
 .slideshow-container {
@@ -106,7 +108,6 @@ q {font-style: italic;}
 
 /* Add a blue color to the author */
 .author {color: cornflowerblue;}
-
 </style>
 
 <div class="slideshow-container">
@@ -153,12 +154,45 @@ with us on the chalkboard.</q>
   <q>Very nice instructor. Gave lots of opportunities for us to succeed and organized the class very well.</q>
 </div>
 	
-
-<!-- Next and previous buttons -->
-<a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-<a class="next" onclick="plusSlides(1)">&#10095;</a>
+<a class="prev" onclick="plusSlides(-1)">❮</a>
+<a class="next" onclick="plusSlides(1)">❯</a>
 
 </div>
 
-<div class="dot-container" id="dotContainer"></div>
+<div class="dot-container">
+  <span class="dot" onclick="currentSlide(1)"></span> 
+  <span class="dot" onclick="currentSlide(2)"></span> 
+  <span class="dot" onclick="currentSlide(3)"></span> 
+  <span class="dot" onclick="currentSlide(4)"></span> 
+  <span class="dot" onclick="currentSlide(5)"></span> 
+  <span class="dot" onclick="currentSlide(6)"></span> 
+</div>
 
+<script>
+var slideIndex = 1;
+showSlides(slideIndex);
+
+function plusSlides(n) {
+  showSlides(slideIndex += n);
+}
+
+function currentSlide(n) {
+  showSlides(slideIndex = n);
+}
+
+function showSlides(n) {
+  var i;
+  var slides = document.getElementsByClassName("mySlides");
+  var dots = document.getElementsByClassName("dot");
+  if (n > slides.length) {slideIndex = 1}    
+  if (n < 1) {slideIndex = slides.length}
+  for (i = 0; i < slides.length; i++) {
+      slides[i].style.display = "none";  
+  }
+  for (i = 0; i < dots.length; i++) {
+      dots[i].className = dots[i].className.replace(" active", "");
+  }
+  slides[slideIndex-1].style.display = "block";  
+  dots[slideIndex-1].className += " active";
+}
+</script>
