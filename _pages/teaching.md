@@ -88,10 +88,6 @@ with us on the chalkboard.</q>
 <div class="dot-container" id="dotContainer"></div>
 
 <style>
-<html>
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
 * {box-sizing: border-box}
 body {font-family: Verdana, sans-serif; margin:0}
 
