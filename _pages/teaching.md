@@ -87,6 +87,7 @@ with us on the chalkboard.</q>
 
 <div class="dot-container" id="dotContainer"></div>
 
+{% raw %}
 <script>
 let slideIndex = 1;
 document.addEventListener("DOMContentLoaded", function() {
@@ -161,3 +162,4 @@ function stopAutoPlay() {
 // Start autoplay (every 4 seconds)
 startAutoPlay(4000);
 </script>
+{% endraw %}
