@@ -2,7 +2,7 @@
 layout: archive
 title: ""
 permalink: /teaching/
-author_profile: true
+author_profile: false
 ---
 
 I teach undergraduate economics courses, including Principles of Economics, Principles of Microeconomics, and Intermediate Macroeconomics. Class sizes range from 15 to 120 students, with an average teaching evaluation of 4.5 out of 5.
