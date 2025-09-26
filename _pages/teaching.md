@@ -171,6 +171,9 @@ with us on the chalkboard.</q>
 
 <script>
 let slideIndex = 1;
+document.addEventListener("DOMContentLoaded", function() {
+  showSlides(slideIndex);
+});
 let totalSlides = 10;
 let visibleDots = 5;
 let autoPlayInterval = null; // store autoplay interval
