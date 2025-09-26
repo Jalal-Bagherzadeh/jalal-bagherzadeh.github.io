@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: archive.html
 title: ""
 permalink: /teaching/
 author_profile: false
