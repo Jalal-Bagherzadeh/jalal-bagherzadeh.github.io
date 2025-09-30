@@ -26,4 +26,3 @@ Lubbock, Texas 79409\\
 <a href="mailto:jalal.bagherzade@ttu.edu" style="color:blue; text-decoration:none;">
   <i class="fa fa-envelope" style="margin-right:6px;"></i> jalal.bagherzade@ttu.edu
 
-</a>
