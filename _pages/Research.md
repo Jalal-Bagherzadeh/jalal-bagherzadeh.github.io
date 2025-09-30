@@ -11,9 +11,6 @@ author_profile: true
 * The Impact of Inflation on Time Use of Individuals 
 <a href="/files/publications/Inflation and Time Use.pdf" target="_blank">[JMP]</a>
 
-* Old Age Labor: The case of Increase Intensive Margin (with Ali Jaffri)
-<a href="/files/publications/ATUS_Intensive_Margin.pdf" target="_blank">[Download This Paper]</a>
-
 
 ## Works in Progress
 <hr> <!-- This adds a horizontal line below the heading -->
