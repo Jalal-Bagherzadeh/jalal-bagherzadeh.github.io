@@ -15,8 +15,8 @@ author_profile: true
 ## Works in Progress
 <hr> <!-- This adds a horizontal line below the heading -->
 
-* State Dependent effect of Inflation on Time Use 
-* Income-Level Differences in Household Responses to Inflation 
+* The State-Dependent Effects of Inflation on Time Use: Evidence from American Time Use Survey 
+* Heterogeneous Household Responses to Inflation: A Decision Tree Approach
 * Old-Age Labor: The Case of an Increasing Intensive Margin (with Ali Jaffri)
 
 
