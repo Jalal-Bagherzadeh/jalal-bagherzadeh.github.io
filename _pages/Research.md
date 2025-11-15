@@ -15,8 +15,9 @@ author_profile: true
 ## Works in Progress
 <hr> <!-- This adds a horizontal line below the heading -->
 
-* State Dependent effect of Inflation on Time Use [Manuscript is Coming Soon]
-* Income-Level Differences in Household Responses to Inflation [Manuscript is Coming Soon]
+* State Dependent effect of Inflation on Time Use 
+* Income-Level Differences in Household Responses to Inflation 
+* Old-Age Labor: The Case of an Increasing Intensive Margin (with Ali Jaffri)
 
 
 ## Published
