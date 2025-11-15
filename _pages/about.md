@@ -9,7 +9,7 @@ redirect_from:
 
 <br />
 I am a Ph.D. candidate and graduate part-time instructor in economics from Texas Tech University. \\
-Click <a href="/files/cv_jalal_bagherzadeh.pdf" target="_blank">[here]</a> to find my CV.
+Click <a href="/files/cv_Jalal_Bagherzadeh.pdf" target="_blank">[here]</a> to find my CV.
 
 ## Research
 My research focuses on how macroeconomic variables shape household decision-making and, in turn, how these choices feed back into aggregate economic outcomes. To study these dynamics, I integrate large-scale microeconomic datasets into a macroeconomic framework, using structural models, time-series methods, and applied econometrics. 
