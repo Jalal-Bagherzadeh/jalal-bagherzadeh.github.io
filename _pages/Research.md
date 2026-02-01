@@ -10,14 +10,16 @@ author_profile: true
 
 * The Impact of Inflation on Time Use of Individuals 
 <a href="/files/publications/Inflation and Time Use.pdf" target="_blank">[JMP]</a>
+* Nonlinear Effects of Inflation on Market Work: A State-Dependent Bayesian Local Projections Approac
+<a href="/files/publications/State_Dependent_Inflation.pdf" target="_blank">[JMP]</a>
 
 
 ## Works in Progress
 <hr> <!-- This adds a horizontal line below the heading -->
 
-* The State-Dependent Effects of Inflation on Time Use: Evidence from American Time Use Survey 
 * Heterogeneous Household Responses to Inflation: A Decision Tree Approach
-* Old-Age Labor: The Case of an Increasing Intensive Margin (with Ali Jaffri)
+* Monetary Policy Transmission to Electricity Generation (with Strekalov, Azzam, and Avetisyan)
+
 
 
 ## Published
