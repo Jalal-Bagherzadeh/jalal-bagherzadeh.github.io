@@ -10,8 +10,8 @@ author_profile: true
 
 * The Impact of Inflation on Time Use of Individuals 
 <a href="/files/publications/Inflation and Time Use.pdf" target="_blank">[JMP]</a>
-* Nonlinear Effects of Inflation on Market Work: A State-Dependent Bayesian Local Projections Approac
-<a href="/files/publications/State_Dependent_Inflation.pdf" target="_blank">[JMP]</a>
+* Nonlinear Effects of Inflation on Market Work: A State-Dependent Bayesian Local Projections Approach
+<a href="/files/publications/State_Dependent_Inflation.pdf" target="_blank">[Download Here]</a>
 
 
 ## Works in Progress
